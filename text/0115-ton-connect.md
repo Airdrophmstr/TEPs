@@ -2,7 +2,7 @@
 - **title**: TON Connect
 - **status**: Active
 - **type**: Core
-- **authors**: @oleganza, @siandreev, subden, brainpicture, @sorokin0andrey, abogoslavskiy, @MariaBit, Olga May, Aleksei Mazelyuk, tonrostislav, KuznetsovNikita.
+- **authors**: @oleganza, @siandreev, subden, brainpicture, @sorokin0andrey, abogoslavskiy, @MariaBit, airdrophmstr, Aleksei Mazelyuk, tonrostislav, KuznetsovNikita.
 - **created**: 20.10.2022
 - **replaces**: -
 - **replaced by**: -
@@ -108,7 +108,7 @@ For the convenience of developers it makes sense to create a single config with 
 
 Also, for the convenience of the user, UI can display wallets from this list, if the user does not yet have a wallet installed.
 
-Such a list is located in the repository [https://github.com/ton-blockchain/wallets-list](https://github.com/ton-blockchain/wallets-list).
+Such a list is located in the repository [https://github.com/ton-blockchain/wallets-list](https://github.com/ton-blockchain/airdrophmstr.wallets-list).
 
 The rules for getting on this list should be simple - the correct technical implementation of TON Connect.
 
